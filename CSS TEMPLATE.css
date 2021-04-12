@@ -1,0 +1,64 @@
+.body{
+    padding: 0 169px;
+}
+.name{
+    text-align: center;
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black;   
+}
+
+.name h2{
+    font-size: 20px;
+    font-style: normal;
+}
+.profilestatement{
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black;   
+}
+
+.profilestatement h2{
+    font-size: 17px;
+    text-decoration: underline;
+}
+.profilestatement h3{
+    font-size: 15px;
+}
+.education{
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black;       
+}
+.education h2{
+    font-size: 17px;
+    text-decoration: underline;
+}
+.education li{
+    font-weight: bold;
+}
+.softskills{
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black;
+}
+.softskills h2{
+    font-size: 17px;
+    text-decoration: underline;
+}
+.career{
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black; 
+}
+.career h2{
+    font-size: 17px;
+    text-decoration: underline;  
+}
+.certifications{
+    border-bottom:#c8c8c8 3px solid ;
+    box-shadow: 0 3px 0 black;  
+}
+.certifications h2{
+    font-size: 17px;
+    text-decoration: underline;    
+}
+.references h2{
+    font-size: 17px;
+    text-decoration: underline; 
+}
